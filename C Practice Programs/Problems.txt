@@ -1,0 +1,13 @@
+# C Practice Programs by Abhi Bhaiya
+
+Problem 01- Write a program to delete a file in system.
+Problem 02- Write a program to print multiplication table of given number.
+Problem 03- Write a program to swap two numbers.
+Problem 04- Write a program to calculate the user enters the area of rectangle, length and width.
+Problem 05- Write a program to find the greatest among three number.
+Problem 06- Write a program to find largest/greatest element of given array.
+Problem 07- Write a program to calculate the average of three numbers.
+Problem 08- Write a program to print all elements of given array.
+Problem 09- Write a program to find the factorial of a given number.
+Problem 10- Write a program to print sum of all the element of the given array.
+Problem 11- Write a program to search a given key in an array (linear search).
